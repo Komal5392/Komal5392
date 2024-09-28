@@ -1,0 +1,19 @@
+#container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid lightseagreen; 
+    border-radius: 10px;       
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    font-size: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}

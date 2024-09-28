@@ -1,0 +1,11 @@
+img{
+    border-radius : 50%;
+}
+body{
+    background-color: #D2f898;
+    width: 50%;
+}
+h1{
+    border: 2px dashed #2f2f2f;
+    width:50%;
+}

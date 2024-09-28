@@ -1,0 +1,377 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "countingSortDesc",
+            "request": "launch",
+            "mainClass": "countingSortDesc",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "SortingArray",
+            "request": "launch",
+            "mainClass": "SortingArray",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort1",
+            "request": "launch",
+            "mainClass": "bubbleSort1",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "TrappingWater",
+            "request": "launch",
+            "mainClass": "TrappingWater",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarraySumKadanesAlgo",
+            "request": "launch",
+            "mainClass": "MaxSubarraySumKadanesAlgo",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubarraySumPrefix",
+            "request": "launch",
+            "mainClass": "MaximumSubarraySumPrefix",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubarraySum",
+            "request": "launch",
+            "mainClass": "MaximumSubarraySum",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "pairSubArray",
+            "request": "launch",
+            "mainClass": "pairSubArray",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "pairArray",
+            "request": "launch",
+            "mainClass": "pairArray",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "reverseArray",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "LargestNum",
+            "request": "launch",
+            "mainClass": "LargestNum",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "searchArrayFastFood",
+            "request": "launch",
+            "mainClass": "searchArrayFastFood",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "updateMarks",
+            "request": "launch",
+            "mainClass": "updateMarks",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "arrayex",
+            "request": "launch",
+            "mainClass": "arrayex",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "Half_Pyramid_Patten",
+            "request": "launch",
+            "mainClass": "Half_Pyramid_Patten",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "arraycc",
+            "request": "launch",
+            "mainClass": "arraycc",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "Conversion",
+            "request": "launch",
+            "mainClass": "Conversion",
+            "projectName": "JavaPrograms_45646d77"
+        },
+        {
+            "type": "java",
+            "name": "Playsong",
+            "request": "launch",
+            "mainClass": "Playsong",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "arraycc",
+            "request": "launch",
+            "mainClass": "arraycc",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "ArraysCC",
+            "request": "launch",
+            "mainClass": "ArraysCC",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicPattern",
+            "request": "launch",
+            "mainClass": "PalindromicPattern",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Solid_Rhombus",
+            "request": "launch",
+            "mainClass": "Solid_Rhombus",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePattern",
+            "request": "launch",
+            "mainClass": "TrianglePattern",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "FloydTriangle",
+            "request": "launch",
+            "mainClass": "FloydTriangle",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfPyramid",
+            "request": "launch",
+            "mainClass": "InvertedHalfPyramid",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly",
+            "request": "launch",
+            "mainClass": "Butterfly",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Half_Pyramid_Patten",
+            "request": "launch",
+            "mainClass": "Half_Pyramid_Patten",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Fever",
+            "request": "launch",
+            "mainClass": "Fever",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "HollowPattern",
+            "request": "launch",
+            "mainClass": "HollowPattern",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Javabasic",
+            "request": "launch",
+            "mainClass": "Javabasic",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumber",
+            "request": "launch",
+            "mainClass": "NaturalNumber",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JavaPrograms_d1bc2f62"
+        },
+        {
+            "type": "java",
+            "name": "Week",
+            "request": "launch",
+            "mainClass": "Week",
+            "projectName": "JavaPrograms_d1bc2f62"
+        }
+    ]
+}
